@@ -1,1 +1,1 @@
-# affiliate shortlink tea2one
+# shlink docker
